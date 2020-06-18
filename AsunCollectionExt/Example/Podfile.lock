@@ -1,0 +1,16 @@
+PODS:
+  - AsunCollectionExt (0.1.0)
+
+DEPENDENCIES:
+  - AsunCollectionExt (from `../`)
+
+EXTERNAL SOURCES:
+  AsunCollectionExt:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AsunCollectionExt: 0c7abc0e2fcd89c58929c7040f7d133e8b900e47
+
+PODFILE CHECKSUM: 6df3229dbd771cda1a2c8703b24fa2133d5d634b
+
+COCOAPODS: 1.9.3

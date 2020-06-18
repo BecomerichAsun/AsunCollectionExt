@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AsunCollectionExt_Example' do
+  pod 'AsunCollectionExt', :path => '../'
+
+  target 'AsunCollectionExt_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
